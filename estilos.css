@@ -217,11 +217,12 @@ body{
 /*H1 ANIMADO*/
 
 b{
-  font-weight: 700;
+  font-weight: 600;
   color: #0D6EFD;
   text-shadow: 0px 1px 25px rgba(13, 110, 253, 1);
 }
 
 h2{
-  font-weight: 600;
+  font-weight: 500;
+  font-size: 50px;
 }
